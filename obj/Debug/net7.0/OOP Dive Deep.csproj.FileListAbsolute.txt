@@ -1,0 +1,15 @@
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\bin\Debug\net7.0\OOP Dive Deep.exe
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\bin\Debug\net7.0\OOP Dive Deep.deps.json
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\bin\Debug\net7.0\OOP Dive Deep.runtimeconfig.json
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\bin\Debug\net7.0\OOP Dive Deep.dll
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\bin\Debug\net7.0\OOP Dive Deep.pdb
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\obj\Debug\net7.0\OOP Dive Deep.csproj.AssemblyReference.cache
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\obj\Debug\net7.0\OOP Dive Deep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\obj\Debug\net7.0\OOP Dive Deep.AssemblyInfoInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\obj\Debug\net7.0\OOP Dive Deep.AssemblyInfo.cs
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\obj\Debug\net7.0\OOP Dive Deep.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\obj\Debug\net7.0\OOP Dive Deep.dll
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\obj\Debug\net7.0\refint\OOP Dive Deep.dll
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\obj\Debug\net7.0\OOP Dive Deep.pdb
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\obj\Debug\net7.0\OOP Dive Deep.genruntimeconfig.cache
+C:\Users\mahmo\OneDrive\Desktop\vscode\OOP Dive Deep\obj\Debug\net7.0\ref\OOP Dive Deep.dll
